@@ -1,3 +1,5 @@
 #imgフォルダは除外
-
 img/
+
+#test.py
+/test.py
