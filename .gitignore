@@ -1,5 +1,11 @@
 #imgフォルダは除外
 img/
 
+#img2フォルダは除外
+img2/
+
+#bgmフォルダは除外
+bgm/
+
 #test.py
 /test.py
